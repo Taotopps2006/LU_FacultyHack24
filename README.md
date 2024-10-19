@@ -14,11 +14,11 @@ This repository is for Lincoln University of Pennsylvania Team of https://scienc
 **LinkedIn:** https://www.linkedin.com/in/hector-h-corzo-257b44121/
 
 ---
-# Project Description.
+# Project Description
 This revised course introduces students to the principles and concepts of modern operating system design, with a focus on the Linux operating system and its application in High-Performance Computing (HPC) environments. The course covers key topics such as process management, CPU scheduling, memory and storage management, while also providing an introduction to parallel computing and distributed systems. Students will learn essential Linux commands, programming features, and gain practical experience with tools and environments used in HPC. Through hands-on lab exercises and projects, students will explore how to work effectively in an HPC environment.
 
 ---
-# Blog Post.
+# Blog Post
 I had an amazing experience at the Gateway 2024 conference, held from October 8-10, 2024, in Bozeman, Montana. My journey began earlier, with the Faculty Hackathon Program from September 16-20, 2024, where I had the privilege of working with highly skilled mentors during the HPC training sessions. These mentors offered valuable suggestions on incorporating High-Performance Computing (HPC) components into my syllabus. Led by Dr. Hayden, the Faculty Hackathon stands out as the highlight of all the workforce development programs I’ve attended in 2024.
 
 Dr. Powell's preliminary session was particularly engaging, and despite attending the sessions via Zoom after my evening classes, the virtual environment remained charged and interactive. I am immensely grateful to the organizers at SGCI/SGX3 for putting together such an excellent program that enables faculty to develop their HPC skills and share this knowledge with their students. I left the hackathon with a "ready-to-go" course outline, a tentative implementation schedule, and identified resources for my course.
