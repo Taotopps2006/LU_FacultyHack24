@@ -9,8 +9,6 @@ This repository is for Lincoln University of Pennsylvania Team of https://scienc
 **Email:** [otawose@lincoln.edu](mailto:otawose@lincoln.edu).
 **LinkedIn:** [https://www.linkedin.com/in/olamide-timothy-tawose-b424b766/](https://www.linkedin.com/in/olamide-timothy-tawose-b424b766/).
 
-![OjoOO1-Photo](https://github.com/user-attachments/assets/0219dc8e-f684-4040-87f9-316d5c89268d)
-
 **Team Mentor:** Hector Corzo, PhD.	
 **Email:** hernandezchf@ornl.gov.	
 **LinkedIn:** https://www.linkedin.com/in/hector-h-corzo-257b44121/
@@ -18,9 +16,8 @@ This repository is for Lincoln University of Pennsylvania Team of https://scienc
 ---
 # Project Description.
 This revised course introduces students to the principles and concepts of modern operating system design, with a focus on the Linux operating system and its application in High-Performance Computing (HPC) environments. The course covers key topics such as process management, CPU scheduling, memory and storage management, while also providing an introduction to parallel computing and distributed systems. Students will learn essential Linux commands, programming features, and gain practical experience with tools and environments used in HPC. Through hands-on lab exercises and projects, students will explore how to work effectively in an HPC environment.
-![image](https://github.com/user-attachments/assets/b59107f7-d890-4eb3-b7d1-383778c16c96)
 
-
+---
 # Blog Post.
 I had an amazing experience at the Gateway 2024 conference, held from October 8-10, 2024, in Bozeman, Montana. My journey began earlier, with the Faculty Hackathon Program from September 16-20, 2024, where I had the privilege of working with highly skilled mentors during the HPC training sessions. These mentors offered valuable suggestions on incorporating High-Performance Computing (HPC) components into my syllabus. Led by Dr. Hayden, the Faculty Hackathon stands out as the highlight of all the workforce development programs I’ve attended in 2024.
 
