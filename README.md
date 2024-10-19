@@ -25,6 +25,9 @@ Dr. Powell's preliminary session was particularly engaging, and despite attendin
 
 At the Gateway conference, I had the opportunity to present a poster on my revised course, which garnered amazing feedback from the academic community. The presentations at the conference were equally impactful, providing me with insights on gateways that I can incorporate into my classes. I was particularly excited to learn about Jetstream2, a resource I plan to utilize in Fall 2025. One of the standout moments of the conference was the lunch meeting with NSF representative Dr. Amy Apon. She provided detailed information about opportunities in the NSF CISE and the Office of Advanced Cyberinfrastructure, offering personalized guidance to all faculty in attendance.
 
+![image](https://github.com/user-attachments/assets/9324e72a-5417-45c4-aa77-3615b0f5ea5d)
+
+
 The conference venue in Bozeman, Montana, was stunning, with breathtaking mountain views that added to the overall experience. While I was too engaged in conference activities to explore the area, I plan to return and visit Yellowstone in the future.
 
 I would strongly recommend the Faculty Hackathon and the Gateway conference to any faculty member seeking up-to-date mentorship and guidance on HPC.
